@@ -54,7 +54,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NASCAR\Race.cs" />
+    <Compile Include="NASCAR\RaceTrack.cs" />
+    <Compile Include="NASCAR\Schedule.cs" />
+    <Compile Include="Organizational Information\Car.cs" />
+    <Compile Include="Organizational Information\Driver.cs" />
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Organizational Information\Organization.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
